@@ -1,0 +1,3 @@
+# Ignore gems installed by bundler
+vendor/bundle
+.bundle
